@@ -1,6 +1,6 @@
 # Participles
 
-While not as common in English as in Latin, participles are _veribial adjectives_.  Becuase they decribe nouns they share the noun's case, number, and gender.
+While not as common in English as in Latin, participles are _verbial adjectives_.  Because they describe nouns they share the noun's case, number, and gender.
 
 | | Active | Passive |
 | --- | :---: | :---: |
@@ -14,7 +14,7 @@ The **future perephrastic** is formed by combining the _future active_ participl
 - _was_ going to *verb*
 - _will be_ going to *verb*
 
-The **passive perephrastic** is formed by combining the _future passive_ participle with a form of _sum, esse_.
+The **passive periphrastic** is formed by combining the _future passive_ participle with a form of _sum, esse_.
 
 - is to be *verb*ed, must be *verb*ed
 - _had_ to be *verb*ed
@@ -24,3 +24,12 @@ The _future passive_ participle is commonly referred to as the _gerundive_.  The
 
 - _must_ be *verb*ed
 - _is_ to be *verb*ed
+
+An **ablative absolute** is often a _noun_ and a _participle_ (though not always) in the ablative case, with no preposition and grammatically separate from the sentence.
+
+- translated literally "with [noun] [participle]"
+- usually shows time or circumstance of an action
+- also can show cause, concession, condition, means, or manner
+- the _noun_ is detached from the rest of the sentence
+
+The **dative of agent** is used with the **passive periphrastic**/**gerundive** to show who must do the action.
