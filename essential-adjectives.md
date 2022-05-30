@@ -47,9 +47,22 @@ The **objective compliment** describes the result of the action of the verb on t
 | **-us** (m.), **-a** (f.), **-um** (n.) | **-ior** (m. & f.), **-ius** (n.), **-iōris** (gen.) |  **-issimus**, **-issima**, **-issimum** |
 | The basic form of an adjective. | Sometimes translated with _rather_, indicating a greater degree of a quality than _usual_, or _too_ indicating a greater degree than _desirable_. | Sometimes translated with _very_, especially when comparing a person or thing to what is _usual_ or _ideal_. |
 
+When **quam** _follows_ a _comparative_:
+
+- It function as the conjunction "than" linking the two items being compared.
+- Same case or construction follows **quam** as precedes.
+
+When **quam** precedes a _superlative_:
+
+- Functions adverbially and indicates the greatest degree possible of a quality.
+- Either _as possible_ or _as can be_.
+
+The **ablative of comparison** omits the **quam** when a _nominative_ or _accusative_ element being compared is followed by an _ablative_ element.
+
+
 ### Declension of Comparatives
 
-The **comparative** are two ending adjectives of the 3rd declension but are not i-stems.
+The **comparative** adjectives are two ending adjectives of the 3rd declension but are not i-stems.
 
 | Case | Endings | |
 | --- | :---: | :--: |
