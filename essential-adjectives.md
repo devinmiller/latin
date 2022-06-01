@@ -81,3 +81,33 @@ The **comparative** adjectives are two ending adjectives of the 3rd declension b
 | _Acc._ | **-iōrēs** | **-iōra** |
 | _Abl._ | **-iōribus** | **-iōribus** |
 | _Voc._ | **-iōrēs** | **-iōra** |
+
+
+## Irregular Adjectives
+
+Because language is messy.
+
+### Superlatives of *-er* and *-lis*
+
+Six adjectives ending in **-lis** form the superlative by adding **limus, -a, -um** to the base.
+
+- facilis, -e (easy)
+- difficilis, -e (difficult)
+- similis, -e (like) 
+- dissimilis, -e (unlike, dissimilar)
+- gracilis, -e (slender, thin)
+- humilis, -e (low, humble)
+
+Adjectives with a masculine ending in **-er** , regardless of declension,for the superlative by adding **-rimus, -a, -um** directly to the **-er**, _not_ the base.
+
+### Other Irregular Adjectives
+
+| Positive | Comparative | Superlative |
+| --- | --- | --- |
+| bonus, -a, um (good) | melior, -ius (better) | optimus, -a, um (best) |
+| magnus, -a, um (great) | maior, -ius (greater) | maximus, -a, um (greatest) |
+| malus, -a, um (bad) | peior, -ius (worse) | pessimus,, -a, um (worst) |
+| multus, -a, um (much) | ---, plūs (more) | plurimus, -a, um (most) |
+| parvus, -a, um (small) | minor, minus (smaller) | minimus, -a, um (smallest) |
+| (prae, prō) (in front of, before) | prior, -ius (former) | prīmus, -a, um (first) |
+| superus, -a, um (that above) | superior, -ius (higher) | summus, -a, um (highest, furthest) <br /> suprēmus, -a, um (highest, last) |
