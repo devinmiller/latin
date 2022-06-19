@@ -18,7 +18,7 @@ provider "aws" {
 }
 
 resource "aws_s3_bucket" "cotb_latin" {
-  bucket = "cotb.latin"
+  bucket = "latin.cotb.dev"
 }
 
 resource "aws_s3_bucket_acl" "cotb_latin_acl" {
@@ -36,7 +36,7 @@ resource "aws_s3_bucket_policy" "cotb_latin_policy" {
             "Effect"    = "Allow",
             "Principal" = "*",
             "Action"    = "s3:GetObject",
-            "Resource"  = "arn:aws:s3:::cotb.latin/*"
+            "Resource"  = "arn:aws:s3:::${aws_s3_bucket.cotb_latin.bucket}/*"
         }
     ]
   })
@@ -74,6 +74,18 @@ resource "aws_s3_object" "cotb_latin_conjugation_table" {
   etag = filemd5("essential-verbs.html")
 }
 
+resource "aws_s3_object" "cotb_latin_demonstrative_table" {
+  bucket = aws_s3_bucket.cotb_latin.id
+  key    = "essential-demonstratives.html"
+  source = "essential-demonstratives.html"
+  content_type = "text/html"
+
+  # The filemd5() function is available in Terraform 0.11.12 and later
+  # For Terraform 0.11.11 and earlier, use the md5() function and the file() function:
+  # etag = "${md5(file("path/to/file"))}"
+  etag = filemd5("essential-demonstratives.html")
+}
+
 data "aws_route53_zone" "cotb_dev_zone" {
   name         = "cotb.dev."
   private_zone = false
@@ -81,7 +93,7 @@ data "aws_route53_zone" "cotb_dev_zone" {
 
 resource "aws_route53_record" "cotb_latin_www" {
   zone_id = data.aws_route53_zone.cotb_dev_zone.zone_id
-  name    = "latin.cotb.dev"
+  name    = aws_s3_bucket.cotb_latin.bucket
   type    = "A"
   
   alias {
