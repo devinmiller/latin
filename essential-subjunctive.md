@@ -44,11 +44,30 @@ A subordinate clause the  which reports a question indirectly, not in a direct q
 
 An Indirect Question is a type of subjunctive clause that reports a question asked. It contains a main indicative verb that is a verb of questioning, a question word to introduce the dependent clause, and a subordinate verb in the subjunctive.
 
-### Circumstantial
+### Cum Clauses
 
-A Cum Clause is a subordinate clause that starts with "cum" and contains a subjunctive. There are three types of Cum clauses. The translation of the cum chances depending on the context of the clause:
+A Cum Clause is a subordinate clause that starts with "cum" and contains a subjunctive. There are three types of Cum clauses. The translation of the cum changes depending on the context of the clause:
 
-- Cum Temporal: cum translated as "when" or "after
+- Cum Temporal: cum translated as "when" or "after"
+- Cum Curcumstantial: cum translated as "when" or "after"
 - Cum Concessive: cum translated as "although"
 - Cum Causal: cum translated as "because" or "since"
+
+#### Cum Temporal
+
+A _cum clause_ with a past tense indicative verb identifies or defines the time at which the action of the main clause occurs.  
+
+[Latin Tutorial - Rule 83: Temporal cum Clauses](https://youtu.be/A68WQ8PdgcI)
+
+#### Cum Circumstantial
+
+A _circumstantial cum clause_ has an imperfect or pluperfect subjunctive verb and shows the circumstances that accompanied the action of the main clause.
+
+[Latin Tutorial - Rule 84: Circumstantial cum Clauses](https://youtu.be/A68WQ8PdgcI)
+
+#### Cum Causal and Concessive
+
+A _causal cum clause_ and _concessive cum clause_ both take verbs in the subjunctive mood.
+
+[Latin Tutorial - Rule 85: Causal and Concessive cum Clauses](https://youtu.be/gGjNu1bEv1M)
 
