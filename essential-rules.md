@@ -2,6 +2,18 @@
 
 [Introducing the 91 Rules of Latin Grammar](https://youtu.be/zA0CPJZfoI4)
 
+## Rule 34: The Direct Object Accusative
+
+The _direct object_ of a transitive verb is in the accusative case.
+
+[Latin Tutorial - Rule 34: The Direct Object Accusative](https://youtu.be/R0_mGbe5Bxo)
+
+## Rule 58: Time with the Ablative and Accusative
+
+The _time at or within which_ something happens is noted by the ablative case, while _duration of time_ is noted by the accusative.
+
+[Latin Tutorial - Rule 58: Time with the Ablative and Accusative](https://youtu.be/l2mn_eoG4hQ)
+
 ## Rule 83: Temporal cum Clauses
 
 A _cum clause_ with a past tense indicative verb identifies or defines the time at which the action of the main clause occurs.  
