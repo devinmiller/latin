@@ -28,6 +28,18 @@ Note: The genetives of nōs and vōs are _never_ used possessively.
 
 [Latin Tutorial - Rule 4: The Genetives of nōs and vōs](https://youtu.be/UwVtqdGGTfE)
 
+## Rule 34: The Direct Object Accusative
+
+The _direct object_ of a transitive verb is in the accusative case.
+
+[Latin Tutorial - Rule 34: The Direct Object Accusative](https://youtu.be/R0_mGbe5Bxo)
+
+## Rule 58: Time with the Ablative and Accusative
+
+The _time at or within which_ something happens is noted by the ablative case, while _duration of time_ is noted by the accusative.
+
+[Latin Tutorial - Rule 58: Time with the Ablative and Accusative](https://youtu.be/l2mn_eoG4hQ)
+
 ## Rule 71: Sequence of Tenses
 
 A sentence with a _present or future tense main verb_ will be followed by a _present or perfect subjunctive_ verb in its dependent clause, and one with a _past tense main verb_ by an _imperfect of pluperfect subjunctive_ verb.
