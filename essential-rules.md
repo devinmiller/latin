@@ -2,6 +2,44 @@
 
 [Introducing the 91 Rules of Latin Grammar](https://youtu.be/zA0CPJZfoI4)
 
+## Rule 1: Apposition
+
+Two nouns that refer to the same thing are going to be in the _same case_.
+
+[Latin Tutorial - Rule 1: Apposition](https://youtu.be/abgz2Z4S5d8)
+
+## Rule 2: Noun-Adjective Agreement
+
+All adjectives will have the same _case_, _number_, and _gender_ as the nouns they describe.
+
+[Latin Tutorial - Rule 2: Noun-Adjective Agreement](https://youtu.be/_kDsDfod5xo)
+
+## Rule 3: Some Adjectives Describe Part of their Noun
+
+Some adjectives, especially superlatives, can refer to _part of the noun_.
+
+[Latin Tutorial - Rule 3: Some Adjectives Describe Part of Their Noun](https://youtu.be/r_BIqaWLb9Y)
+
+## Rule 4: The Genetives of nōs and vōs
+
+The genetives of _nōs_ and _vōs_ come in two forms, one ending in -_um_ (_partitive genetive_), the other that end of -_ī_(_objective genetive_).
+
+Note: The genetives of nōs and vōs are _never_ used possessively.
+
+[Latin Tutorial - Rule 4: The Genetives of nōs and vōs](https://youtu.be/UwVtqdGGTfE)
+
+## Rule 71: Sequence of Tenses
+
+A sentence with a _present or future tense main verb_ will be followed by a _present or perfect subjunctive_ verb in its dependent clause, and one with a _past tense main verb_ by an _imperfect of pluperfect subjunctive_ verb.
+
+[Latin Tutorial - Rule 71: Sequence of Tenses](https://youtu.be/kjddc4vRQ4I)
+
+## Rule 72: The Relative Time of Participles
+
+The tense of the participle shows its _relative time_ with respect to the main verb of its clause.
+
+[Latin Tutorial - Rule 72: The Relative Time of Participles](https://youtu.be/fuURK97hH_w)
+
 ## Rule 83: Temporal cum Clauses
 
 A _cum clause_ with a past tense indicative verb identifies or defines the time at which the action of the main clause occurs.  
