@@ -20,13 +20,25 @@ Some adjectives, especially superlatives, can refer to _part of the noun_.
 
 [Latin Tutorial - Rule 3: Some Adjectives Describe Part of Their Noun](https://youtu.be/r_BIqaWLb9Y)
 
-## Rule 4: The Genetives of nōs and vōs
+## Rule 4: The Genitives of nōs and vōs
 
-The genetives of _nōs_ and _vōs_ come in two forms, one ending in -_um_ (_partitive genetive_), the other that end of -_ī_(_objective genetive_).
+The genitives of _nōs_ and _vōs_ come in two forms, one ending in -_um_ (_partitive genitive_), the other that end of -_ī_(_objective genitive_).
 
-Note: The genetives of nōs and vōs are _never_ used possessively.
+Note: The genitives of nōs and vōs are _never_ used possessively.
 
-[Latin Tutorial - Rule 4: The Genetives of nōs and vōs](https://youtu.be/UwVtqdGGTfE)
+[Latin Tutorial - Rule 4: The Genitives of nōs and vōs](https://youtu.be/UwVtqdGGTfE)
+
+## Rule 27: The Dative with Compounds
+
+Many verbs compounded with _ad, ante, con, in, inter, ob, post, prae, prō, sub, super_, and something _circum_ and _rē_ take the _dative case_.
+
+[Latin Tutorial - Rule 27: The Dative with Compounds](https://youtu.be/AW4sAIcZBFU)
+
+## Rule 30: The Dative of Reference
+
+The dative often depends of the _general meaning_ of the sentence when it's the _dative of reference_.
+
+[Latin Tutorial - Rule 30: The Dative of Reference](https://youtu.be/Km7jNpFx0eA)
 
 ## Rule 34: The Direct Object Accusative
 
