@@ -28,6 +28,12 @@ Note: The genitives of nōs and vōs are _never_ used possessively.
 
 [Latin Tutorial - Rule 4: The Genitives of nōs and vōs](https://youtu.be/UwVtqdGGTfE)
 
+## Rule 19: The Genitive of the Whole
+
+The _genitive of the whole_ often follows words that denote a part.
+
+[Latin Tutorial - Rule 19: The Genitive of the Whole](https://youtu.be/_JSbQGwJPWo)
+
 ## Rule 27: The Dative with Compounds
 
 Many verbs compounded with _ad, ante, con, in, inter, ob, post, prae, prō, sub, super_, and something _circum_ and _rē_ take the _dative case_.
@@ -39,6 +45,12 @@ Many verbs compounded with _ad, ante, con, in, inter, ob, post, prae, prō, sub,
 The dative often depends of the _general meaning_ of the sentence when it's the _dative of reference_.
 
 [Latin Tutorial - Rule 30: The Dative of Reference](https://youtu.be/Km7jNpFx0eA)
+
+## Rule 33: The Dative with Adjectives
+
+The dative case is used with _adjectives_ and some adverbs of _fitness, nearness, likeness, services,_ and _inclination_ (and their opposites). 
+
+[Latin Tutorial - Rule 33: The Dative with Adjectives](https://youtu.be/4KS7IfsJWFM)
 
 ## Rule 34: The Direct Object Accusative
 
