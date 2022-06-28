@@ -28,6 +28,18 @@ Note: The genitives of nōs and vōs are _never_ used possessively.
 
 [Latin Tutorial - Rule 4: The Genitives of nōs and vōs](https://youtu.be/UwVtqdGGTfE)
 
+## Rule 5: The Third Person Reflexive Pronoun
+
+The reflexive pronoun _suī_, _sibi_, _sē_, _sē_, and the possessive adjective _suus_ are used to refer tothe subject of the sentence.
+
+[Latin Tutorial - Rule 5: The Third Person Reflexive Pronoun](https://youtu.be/6W6P9_ArF9M)
+
+## Rule 6: Possession with Pronouns
+
+We _never_ use the genitive pronoun for possession.  Instead, we use the _possessive adjective_.
+
+[Latin Tutorial - Rule 6: Possession with Pronouns](https://youtu.be/GIhedzfeyHk)
+
 ## Rule 19: The Genitive of the Whole
 
 The _genitive of the whole_ often follows words that denote a part.
