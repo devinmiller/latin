@@ -40,11 +40,47 @@ We _never_ use the genitive pronoun for possession.  Instead, we use the _posses
 
 [Latin Tutorial - Rule 6: Possession with Pronouns](https://youtu.be/GIhedzfeyHk)
 
+## Rule 15: The Basics of the Genitive Case
+
+A noun in the _genitive case_ is used to _limit_ or _define_ another noun.
+
+[Latin Tutorial - Rule 15: The Basics of the Genitive Case](https://youtu.be/7TVyta-6ztc)
+
+## Rule 16: The Genitive of Possession
+
+The _genitive_ can be used to show the person or thing that _possesses_ something else.
+
+[Latin Tutorial - Rule 16: The Genitive of Possession](https://youtu.be/UG1JWF4R80o)
+
+## Rule 17: The Genitive of Material
+
+The _genitive_ can be used for the _material_ from which something is made, or the _substance_ of which it consists.
+
+[Latin Tutorial - Rule 17: The Genitive of Material](https://youtu.be/ZjH5UlaE2tY)
+
+## Rule 18: The Genitive of Description
+
+The _genitive_ case can be used to _describe_ a characteristic of something, provided that there's an _accompanying adjective_.
+
+[Latin Tutorial - Rule 18: The Genitive of Description](https://youtu.be/dornNtDxCtI)
+
 ## Rule 19: The Genitive of the Whole
 
 The _genitive of the whole_ often follows words that denote a part.
 
 [Latin Tutorial - Rule 19: The Genitive of the Whole](https://youtu.be/_JSbQGwJPWo)
+
+## Rule 20: The Objective Genitive
+
+Nouns that describe _actions_ or _feelings_ take the _objective genitive_.
+
+[Latin Tutorial - Rule 20: The Objective Genetive](https://youtu.be/11gp2HOV8DI)
+
+## Rule 21: The Genitive with Adjectives
+
+These adjectives take the _genitive case_: those denoting _desire_, _knowledge_, _memory_, _fullness_, _power_, _sharing_, _guilt_ (and their opposites); _present participles_ when used as adjectives; and verbal adjectives that end in -_āx_.
+
+[Latin Tutorial - Rule 21: The Genitive with Adjectives](https://youtu.be/VTXrYnZsB-I)
 
 ## Rule 27: The Dative with Compounds
 
@@ -88,6 +124,24 @@ The tense of the participle shows its _relative time_ with respect to the main v
 
 [Latin Tutorial - Rule 72: The Relative Time of Participles](https://youtu.be/fuURK97hH_w)
 
+## Rule 80: Result Clauses
+
+A clause show the _result of an action_ has a verb in the _subjunctive_ and is introduced by _ut_ or by a _relative pronoun_ or _adverb_.
+
+[Latin Tutorial - Rule 80: Result Clauses](https://youtu.be/ZajN0a3w58U)
+
+## Rule 81: Causal Clauses
+
+Causal clauses introduced by _quod_, _quia_, and _quoniam_ take the _indicative_ or the _subjunctive_, depending on whose authority the clause is based.
+
+[Latin Tutorial - Rule 81: Causal Clauses](https://youtu.be/6Wh549zh3Cc)
+
+## Rule 82: Temporal Clauses
+
+Clauses introduced by _postquam_, _ubi_, _ut_, and _simul atque_ have a verb in the _indicative_ mood.
+
+[Latin Tutorial - Rule 82: Temporal Clauses](https://youtu.be/IWJaL5H8Q7k)
+
 ## Rule 83: Temporal cum Clauses
 
 A _cum clause_ with a past tense indicative verb identifies or defines the time at which the action of the main clause occurs.  
@@ -100,7 +154,7 @@ A _circumstantial cum clause_ has an imperfect or pluperfect subjunctive verb an
 
 [Latin Tutorial - Rule 84: Circumstantial cum Clauses](https://youtu.be/A68WQ8PdgcI)
 
-#### Rule 85: Causal and Concessive cum Clauses
+## Rule 85: Causal and Concessive cum Clauses
 
 A _causal cum clause_ and _concessive cum clause_ both take verbs in the subjunctive mood.
 
