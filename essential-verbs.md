@@ -2,9 +2,22 @@
 
 When I actually have somewhere to host it, I'll include a link to a master table of verb conjugations.
 
+## Transitive and Intransitive
+
+A _transitive_ verb is a verb that requires a direct object to receive the action.
+
+An _intransitive_ verb is one that **does not** take a direct object.  However, other information, such as _adverbs_ or _prepositions_ maybe present after the verb.
+
+Some verbs can be both _transitive_ and _intransitive_ depending on the context.
+
 ## Principle Parts
 
+In Latin, verbs typically have four principal parts.
 
+1. 1st person singular present active indicative
+1. present active infinitive
+1. 1st person singular perfect active indicative
+1. 1st person masculine singular perfect passive indicative
 
 ## Deponent Verbs
 

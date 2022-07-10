@@ -74,7 +74,7 @@ The _genitive of the whole_ often follows words that denote a part.
 
 Nouns that describe _actions_ or _feelings_ take the _objective genitive_.
 
-[Latin Tutorial - Rule 20: The Objective Genetive](https://youtu.be/11gp2HOV8DI)
+[Latin Tutorial - Rule 20: The Objective Genitive](https://youtu.be/11gp2HOV8DI)
 
 ## Rule 21: The Genitive with Adjectives
 
@@ -82,21 +82,75 @@ These adjectives take the _genitive case_: those denoting _desire_, _knowledge_,
 
 [Latin Tutorial - Rule 21: The Genitive with Adjectives](https://youtu.be/VTXrYnZsB-I)
 
+## Rule 25: The Dative of Indirect Object
+
+The _dative case_ is used for the _indirect object_.
+
+[Read More](rules/rule25.md)
+
+[Latin Tutorial - Rule 25: The Dative of Indirect Object](https://youtu.be/mTioTm8xLyw)
+
+## Rule 26: Dative with Special Verbs
+
+Many _special verbs_ that signify to _favor, help, please, trust, believe, persuade, command, obey, server, resist, eny threaten, pardon,_ and _spare_, and their opposites, take the _dative_.
+
+[Read More](rules/rule26.md)
+
+[Latin Tutorial - Rule 26: Dative with Special Verbs](https://youtu.be/_fi30NwfGaA)
+
 ## Rule 27: The Dative with Compounds
 
 Many verbs compounded with _ad, ante, con, in, inter, ob, post, prae, prō, sub, super_, and something _circum_ and _rē_ take the _dative case_.
 
+[Read More](rules/rule27.md)
+
 [Latin Tutorial - Rule 27: The Dative with Compounds](https://youtu.be/AW4sAIcZBFU)
+
+## Rule 28: The Dative of Possession
+
+The _dative_ case is used with sum, esse to show _possession_.
+
+[Read More](rules/rule28.md)
+
+[Latin Tutorial - Rule 28: The Dative of Possession](https://youtu.be/qdkvv7kcIVE)
+
+## Rule 29: The Dative of Agent
+
+The _dative of agent_ is used with the _gerundive_ to show who must do the action.
+
+[Read More](rules/rule29.md)
+
+[Latin Tutorial - Rule 29: The Dative of Agent](https://youtu.be/3hAiGGRkNYY)
 
 ## Rule 30: The Dative of Reference
 
-The dative often depends of the _general meaning_ of the sentence when it's the _dative of reference_.
+The dative often depends on the _general meaning_ of the sentence when it's the _dative of reference_.
+
+[Read More](rules/rule30.md)
 
 [Latin Tutorial - Rule 30: The Dative of Reference](https://youtu.be/Km7jNpFx0eA)
 
+## Rule 31: The Dative of Seperation
+
+Many verbs of _taking away_ take the _dative of seperation_ instead of the ablative, especially when referring to people.
+
+[Read More](rules/rule31.md)
+
+[Latin Tutorial - Rule 31: The Dative of Seperation](https://youtu.be/UI4FAzeisVg)
+
+## Rule 32: The Double Dative and Dative of Purpose
+
+The dative case can show _purpose_, often when it's coupled with a _dative of reference_ in the _double dative_ construction.
+
+[Read More](rules/rule32.md)
+
+[Latin Tutorial - Rule 32: The Double Dative and Dative of Purpose](https://youtu.be/aA-LqaKZy-4)
+
 ## Rule 33: The Dative with Adjectives
 
-The dative case is used with _adjectives_ and some adverbs of _fitness, nearness, likeness, services,_ and _inclination_ (and their opposites). 
+The dative case is used with _adjectives_ and some adverbs of _fitness, nearness, likeness, service,_ and _inclination_ (and their opposites). 
+
+[Read More](rules/rule33.md)
 
 [Latin Tutorial - Rule 33: The Dative with Adjectives](https://youtu.be/4KS7IfsJWFM)
 
