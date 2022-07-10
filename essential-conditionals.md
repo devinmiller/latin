@@ -5,14 +5,14 @@ Latin has 4 types of sentences: declarative, interrogative, exclamatory, and con
 - Declarative sentences communicate **statements**
 - Interrogative sentences communicate **questions**
 - Exclamatory sentences communicate **questions**
-- Conditional sentences communicate an **action that is depedent up (a condition of) another action**
+- Conditional sentences communicate an **action that is dependent up (a condition of) another action**
 
 Conditional sentences consist of two clauses -
 
 1. the condition (**protasis**)
 1. the conclusion (**apodosis**)
 
-The _protasis_ is a subordinate clause usually introduced by **sī**, _if_, or **nisi**, _if...not, unless_, stating a hypothetical a ction or circumstance.
+The _protasis_ is a subordinate clause usually introduced by **sī**, _if_, or **nisi**, _if...not, unless_, stating a hypothetical action or circumstance.
 
 The _adoposis_ is the main clause which expresses the anticipated outcome if hte premise turns out to be true.
 
