@@ -2,7 +2,7 @@
 
 This page should include basic patterns to memorize.
 
-## Formation and Comnparison of Adverbs
+## Formation and Comparison of Adverbs
 
 Many adverbs have peculiar forms or endings and must be memorized.
 
@@ -20,7 +20,7 @@ Adverbs are often formed form 3rd declension adjectives by adding **-iter** to t
 
 ### Comparative and Superlative Degree
 
-The comparative degree of adverbs is, with a few exceptions, identiclel to the **-ius** form of the comparative degree of neuter adjectives.
+The comparative degree of adverbs is, with a few exceptions, identical to the **-ius** form of the comparative degree of neuter adjectives.
 
 The superlative degree of adverbs is derived from the superlative degree of adjectives by adding **-ē** to the base ending.
 

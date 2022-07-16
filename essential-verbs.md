@@ -29,7 +29,7 @@ Deponent verbs only have three principal parts, the passive equivalents of the f
 
 ### Participles, Infinitives, and Imperatives
 
-Three of the participles and one of the infinitives present exceptions to the rule that deponents are passive in for but active in meaning:
+Three of the participles and one of the infinitives present exceptions to the rule that deponents are passive in form but active in meaning:
 
 1. Present and future participles: active forms with active meanings.
 1. Gerundive (future passive participle): passive from with passive meaning.
