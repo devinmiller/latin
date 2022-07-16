@@ -433,7 +433,7 @@ To find the stem of the perfect active tense, remove the **-ī** ending of the 1
         <td>-eris</td>
         <td>-erās</td>
         <td>-erīs</td>
-        <td>issēs</td>
+        <td>-issēs</td>
       </tr>
       <tr>
         <td>3<sup>rd</sup></td>
