@@ -1,6 +1,6 @@
 # The Absolute Essentials of (Active) Verbs
 
-This page should include basic patterns to memorize.
+The conjugations of verbs in the active voice across all tenses in both the indicative and subjunctive moods.
 
 ## Conjugations and Tenses
 
@@ -8,9 +8,7 @@ There are four conjugations and six tenses.
 
 ### 1st Conjugation Verbs
 
-Verbs with the _present active infinitive_ form ending in **-āre**.
-
-The stem vowel _-ā_ is retained throughout, and is included in the table below.
+Verbs with a _second principal part_ ending in **-āre**.
 
 <details>
   <summary>View conjugation endings for -āre</summary>
@@ -82,16 +80,13 @@ The stem vowel _-ā_ is retained throughout, and is included in the table below.
         <td>-ent</td>
         <td>-ārent</td>
       </tr>
-      </tr>
     </tbody>
   </table>
 </details>
 
 ### 2nd Conjugation Verbs
 
-Verbs with the _present active infinitive_ form ending in **-ēre**.
-
-The stem vowel _-ē_ is retained throughout, and is included in the table below.
+Verbs with a _second principal part_ ending in **-ēre**.
 
 <details>
   <summary>View conjugation endings for -ēre</summary>
@@ -163,18 +158,13 @@ The stem vowel _-ē_ is retained throughout, and is included in the table below.
         <td>-eant</td>
         <td>-ērent</td>
       </tr>
-      </tr>
     </tbody>
   </table>
 </details>
 
 ### 3rd Conjugation Verbs
 
-Verbs with the _present active infinitive_ form ending in **-ere**.
-
-The stem vowel _-e-_ is mostly dropped in the present and replaced with an _-i-_ and lengthened to an _-ē-_ in the future and imperfect tenses.
-
-The below table includes the stem vowel.
+Verbs with a _second principal part_ ending in **-ere**.
 
 <details>
   <summary>View conjugation endings for -ere</summary>
@@ -246,14 +236,13 @@ The below table includes the stem vowel.
         <td>-ant</td>
         <td>-erent</td>
       </tr>
-      </tr>
     </tbody>
   </table>
 </details>
 
 ### 3rd Conjugation _-iō_ Verbs
 
-Verbs with the _present active infinitive_ form ending in **-ere** and a 1st person singular ending on **-iō**.  The stem vowel _-i-_ is retained throughout and included in the following table.
+Verbs with a _second principal part_ ending in **-ere** and a _first principal part_ ending in **-iō**.
 
 <details>
   <summary>View conjugation endings for -ere</summary>
@@ -325,16 +314,13 @@ Verbs with the _present active infinitive_ form ending in **-ere** and a 1st per
         <td>-iant</td>
         <td>-erent</td>
       </tr>
-      </tr>
     </tbody>
   </table>
 </details>
 
 ### 4th Conjugation Verbs
 
-Verbs with the _present active infinitive_ form ending in **īre**.
-
-The stem vowel _-ī_ is retained throughout, though often shortened.  The table below includes the stem vowel.
+Verbs with a _second principal part_ ending in **īre**.
 
 <details>
   <summary>View conjugation endings for -īre</summary>
@@ -343,15 +329,16 @@ The stem vowel _-ī_ is retained throughout, though often shortened.  The table 
     <thead>
       <tr>
         <th colspan="2"></th>
-        <th>Present Indicative</th>
-        <th>Future Indicative</th>
-        <th>Imperfect Indicative</th>
+        <th colspan="3">Indicative</th>
+        <th colspan="2">Subjunctive</th>
       </tr>
       <tr>
         <th colspan="2"></th>
-        <th>am</th>
-        <th>will</th>
-        <th>was</th>
+        <th>Present</th>
+        <th>Future</th>
+        <th>Imperfect</th>
+        <th>Present</th>
+        <th>Imperfect</th>
       </tr>
     </thead>
     <tbody>
@@ -361,18 +348,24 @@ The stem vowel _-ī_ is retained throughout, though often shortened.  The table 
         <td>-iō</td>
         <td>-iam</td>
         <td>-iēbam</td>
+        <td>-iam</td>
+        <td>-īrem</td>
       </tr>
       <tr>
         <td>2<sup>nd</sup></td>
         <td>-īs</td>
         <td>-iēs</td>
         <td>-iēbās</td>
+        <td>-iās</td>
+        <td>-īrēs</td>
       </tr>
       <tr>
         <td>3<sup>rd</sup></td>
         <td>-it</td>
         <td>-iet</td>
         <td>-iēbat</td>
+        <td>-iat</td>
+        <td>-īret</td>
       </tr>
       <tr>
         <td rowspan="3">Pl.</td>
@@ -380,19 +373,24 @@ The stem vowel _-ī_ is retained throughout, though often shortened.  The table 
         <td>-īmus</td>
         <td>-iēmus</td>
         <td>-iēbāmus</td>
+        <td>-iāmus</td>
+        <td>-īrēmus</td>
       </tr>
       <tr>
         <td>2<sup>nd</sup></td>
         <td>-ītis</td>
         <td>-iētis</td>
         <td>-iēbātis</td>
+        <td>-iātis</td>
+        <td>-īrētis</td>
       </tr>
       <tr>
         <td>3<sup>rd</sup></td>
         <td>-iunt</td>
         <td>-ient</td>
         <td>-iēbant</td>
-      </tr>
+        <td>-iant</td>
+        <td>-īrent</td>
       </tr>
     </tbody>
   </table>
@@ -407,15 +405,16 @@ To find the stem of the perfect active tense, remove the **-ī** ending of the 1
     <thead>
       <tr>
         <th colspan="2"></th>
-        <th>Perfect Indicative</th>
-        <th>Future Perfect Indicative</th>
-        <th>Pluperfect Indicative</th>
+        <th colspan="3">Indicative</th>
+        <th colspan="2">Subjunctive</th>
       </tr>
       <tr>
         <th colspan="2"></th>
-        <th>have</th>
-        <th>will have</th>
-        <th>had</th>
+        <th>Perfect</th>
+        <th>Future Perfect</th>
+        <th>Pluperfect</th>
+        <th>Perfect</th>
+        <th>Pluperfect</th>
       </tr>
     </thead>
     <tbody>
@@ -425,18 +424,24 @@ To find the stem of the perfect active tense, remove the **-ī** ending of the 1
         <td>-ī</td>
         <td>-erō</td>
         <td>-eram</td>
+        <td>-erim</td>
+        <td>-issem</td>
       </tr>
       <tr>
         <td>2<sup>nd</sup></td>
         <td>-istī</td>
         <td>-eris</td>
         <td>-erās</td>
+        <td>-erīs</td>
+        <td>issēs</td>
       </tr>
       <tr>
         <td>3<sup>rd</sup></td>
         <td>-it</td>
         <td>-erit</td>
         <td>-erat</td>
+        <td>-erit</td>
+        <td>-isset</td>
       </tr>
       <tr>
         <td rowspan="3">Pl.</td>
@@ -444,19 +449,24 @@ To find the stem of the perfect active tense, remove the **-ī** ending of the 1
         <td>-imus</td>
         <td>-erimus</td>
         <td>-erāmus</td>
+        <td>-erīmus</td>
+        <td>-issēmus</td>
       </tr>
       <tr>
         <td>2<sup>nd</sup></td>
         <td>-istis</td>
         <td>-eritis</td>
         <td>-erātis</td>
+        <td>-erītis</td>
+        <td>-issētis</td>
       </tr>
       <tr>
         <td>3<sup>rd</sup></td>
         <td>-ērunt</td>
         <td>-erint</td>
         <td>-erant</td>
-      </tr>
+        <td>-erint</td>
+        <td>-issent</td>
       </tr>
     </tbody>
   </table>
