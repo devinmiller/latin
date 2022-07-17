@@ -84,6 +84,8 @@ The _genitive of the whole_ often follows words that denote a part.
 
 Nouns that describe _actions_ or _feelings_ take the _objective genitive_.
 
+[Read More](rules/rule20.md)
+
 [Latin Tutorial - Rule 20: The Objective Genitive](https://youtu.be/11gp2HOV8DI)
 
 ## Rule 21: The Genitive with Adjectives
@@ -91,6 +93,24 @@ Nouns that describe _actions_ or _feelings_ take the _objective genitive_.
 These adjectives take the _genitive case_: those denoting _desire_, _knowledge_, _memory_, _fullness_, _power_, _sharing_, _guilt_ (and their opposites); _present participles_ when used as adjectives; and verbal adjectives that end in -_āx_.
 
 [Latin Tutorial - Rule 21: The Genitive with Adjectives](https://youtu.be/VTXrYnZsB-I)
+
+## Rule 22: the Genitive with Verbs of Memory
+
+Verbs of _remembering_ and _forgetting_ take either the _accusative_ or the _objective genitive_.
+
+[Latin Tutorial - Rule 22: the Genitive with Verbs of Memory](https://youtu.be/x3itg_JYWl8)
+
+## Rule 23: The Genitive with Verbs of Reminding
+
+Verbs of _reminding_ take the _accusative for people_ and the _genitive for things_.
+
+[Latin Tutorial - Rule 23: The Genitive with Verbs of Reminding](https://youtu.be/EsGjiMLUQoE)
+
+## Rule 24: The Genitive of the Charge/Penalty
+
+Verbs of _accusing_, _condemning_, and _acquitting_ take the _genitive case_.
+
+[Latin Tutorial - Rule 24: The Genitive of the Charge/Penalty](https://youtu.be/-9Fi0F0p9hw)
 
 ## Rule 25: The Dative of Indirect Object
 
@@ -169,6 +189,44 @@ The dative case is used with _adjectives_ and some adverbs of _fitness, nearness
 The _direct object_ of a transitive verb is in the accusative case.
 
 [Latin Tutorial - Rule 34: The Direct Object Accusative](https://youtu.be/R0_mGbe5Bxo)
+
+## Rule 41: The Ablative of Separation
+
+## Rule 42: The Ablative of Source/Material
+
+## Rule 43: The Ablative of Cause
+
+## Rule 44: The Ablative of Agent
+
+## Rule 45: The Ablative of Comparison
+
+## Rule 46: Comparisons with Quam
+
+## Rule 47: The Ablative of Means/Instrument
+
+## Rule 48: The Ablative with PUFF-V Deponents
+
+## Rule 49: The Ablative with opus and ūsus
+
+## Rule 50: The Ablative of Manner
+
+## Rule 51:The Ablative of Accompaniment
+
+## Rule 52: The Ablative of Degree of Difference
+
+## Rule 53: The Ablative of Description
+
+## Rule 54: The Ablative of Price
+
+## Rule 55: The Ablative of Respect/Specification
+
+## Rule 56: The Ablative with dignus and indignus
+
+## Rule 57: The Ablative Absolute
+
+An _ablative absolute_ consists of a noun and a participle in the ablative case, showing _time or circumstance of an action_.
+
+[Latin Tutorial - Rule 57: The Ablative Absolute](https://youtu.be/dsZQf_jjEVI)
 
 ## Rule 58: Time with the Ablative and Accusative
 
