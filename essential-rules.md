@@ -44,11 +44,15 @@ We _never_ use the genitive pronoun for possession.  Instead, we use the _posses
 
 A noun in the _genitive case_ is used to _limit_ or _define_ another noun.
 
+[Read More](rules/rule15.md)
+
 [Latin Tutorial - Rule 15: The Basics of the Genitive Case](https://youtu.be/7TVyta-6ztc)
 
 ## Rule 16: The Genitive of Possession
 
 The _genitive_ can be used to show the person or thing that _possesses_ something else.
+
+[Read More](rules/rule16.md)
 
 [Latin Tutorial - Rule 16: The Genitive of Possession](https://youtu.be/UG1JWF4R80o)
 
@@ -56,17 +60,23 @@ The _genitive_ can be used to show the person or thing that _possesses_ somethin
 
 The _genitive_ can be used for the _material_ from which something is made, or the _substance_ of which it consists.
 
+[Read More](rules/rule17.md)
+
 [Latin Tutorial - Rule 17: The Genitive of Material](https://youtu.be/ZjH5UlaE2tY)
 
 ## Rule 18: The Genitive of Description
 
 The _genitive_ case can be used to _describe_ a characteristic of something, provided that there's an _accompanying adjective_.
 
+[Read More](rules/rule18.md)
+
 [Latin Tutorial - Rule 18: The Genitive of Description](https://youtu.be/dornNtDxCtI)
 
 ## Rule 19: The Genitive of the Whole
 
 The _genitive of the whole_ often follows words that denote a part.
+
+[Read More](rules/rule19.md)
 
 [Latin Tutorial - Rule 19: The Genitive of the Whole](https://youtu.be/_JSbQGwJPWo)
 
