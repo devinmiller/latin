@@ -280,48 +280,48 @@ This should include the most common irregular verbs.
     </tr>
     <tr>
       <td>Imperfect</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>poteram</td>
+      <td>poterās</td>
+      <td>poterat</td>
+      <td>poterāmus</td>
+      <td>poterātis</td>
+      <td>poterant</td>
     </tr>
     <tr>
       <td>Future</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>poterō</td>
+      <td>poteris</td>
+      <td>poterit</td>
+      <td>poterimus</td>
+      <td>poteritis</td>
+      <td>poterunt</td>
     </tr>
     <tr>
       <td>Perfect</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>potuī</td>
+      <td>potuistī</td>
+      <td>potuit</td>
+      <td>potuimus</td>
+      <td>potuistis</td>
+      <td>potuērunt</td>
     </tr>
     <tr>
       <td>Pluperfect</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>potueram</td>
+      <td>potuerās</td>
+      <td>potuerat</td>
+      <td>potuerāmus</td>
+      <td>potuerātis</td>
+      <td>potuerant</td>
     </tr>
     <tr>
       <td>Future Perfect</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>potuerō</td>
+      <td>potueris</td>
+      <td>potuerit</td>
+      <td>potuerimus</td>
+      <td>potueritis</td>
+      <td>potuerint</td>
     </tr>
   </tbody>
   <thead>
@@ -332,39 +332,39 @@ This should include the most common irregular verbs.
   <tbody>
     <tr>
       <td>Present</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>possim</td>
+      <td>possīs</td>
+      <td>possit</td>
+      <td>possīmus</td>
+      <td>possītis</td>
+      <td>possint</td>
     </tr>
     <tr>
       <td>Imperfect</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>possem</td>
+      <td>possēs</td>
+      <td>posset</td>
+      <td>possēmus</td>
+      <td>possētis</td>
+      <td>possent</td>
     </tr>
     <tr>
       <td>Perfect</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>potuerim</td>
+      <td>potuerīs</td>
+      <td>potuerit</td>
+      <td>potuerīmus</td>
+      <td>potuerītis</td>
+      <td>potuerint</td>
     </tr>
     <tr>
       <td>Pluperfect</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>potuissem</td>
+      <td>potuissēs</td>
+      <td>potuisset</td>
+      <td>potuissēmus</td>
+      <td>potuissētis</td>
+      <td>potuissent</td>
     </tr>
   </tbody>
 </table>
@@ -420,30 +420,30 @@ This should include the most common irregular verbs.
     </tr>
     <tr>
       <td>Perfect</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>īvī</td>
+      <td>īvistī</td>
+      <td>īvit</td>
+      <td>īvimus</td>
+      <td>īvistis</td>
+      <td>īvērunt</td>
     </tr>
     <tr>
       <td>Pluperfect</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>īveram</td>
+      <td>īverās</td>
+      <td>īverat</td>
+      <td>īverāmus</td>
+      <td>īverātis</td>
+      <td>īverant</td>
     </tr>
     <tr>
       <td>Future Perfect</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>īverō</td>
+      <td>īveris</td>
+      <td>īverit</td>
+      <td>īverimus</td>
+      <td>īveritis</td>
+      <td>īverint</td>
     </tr>
   </tbody>
   <thead>
@@ -454,39 +454,39 @@ This should include the most common irregular verbs.
   <tbody>
     <tr>
       <td>Present</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>eam</td>
+      <td>eās</td>
+      <td>eat</td>
+      <td>eāmus</td>
+      <td>eātis</td>
+      <td>eant</td>
     </tr>
     <tr>
       <td>Imperfect</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>īrem</td>
+      <td>īrēs</td>
+      <td>īret</td>
+      <td>īrēmus</td>
+      <td>īrētis</td>
+      <td>īrent</td>
     </tr>
     <tr>
       <td>Perfect</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>īverim</td>
+      <td>īverīs</td>
+      <td>īverit</td>
+      <td>īverīmus</td>
+      <td>īverītis</td>
+      <td>īverint</td>
     </tr>
     <tr>
       <td>Pluperfect</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>īvissem</td>
+      <td>īvissēs</td>
+      <td>īvisset</td>
+      <td>īvissēmus</td>
+      <td>īvissētis</td>
+      <td>īvissent</td>
     </tr>
   </tbody>
 </table>
@@ -524,21 +524,21 @@ This should include the most common irregular verbs.
     </tr>
     <tr>
       <td>Imperfect</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>volēbam</td>
+      <td>volēbās</td>
+      <td>volēbat</td>
+      <td>volēbāmus</td>
+      <td>volēbātis</td>
+      <td>volēbant</td>
     </tr>
     <tr>
       <td>Future</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>voluī</td>
+      <td>voluistī</td>
+      <td>voluit</td>
+      <td>voluimus</td>
+      <td>voluistis</td>
+      <td>voluērunt</td>
     </tr>
     <tr>
       <td>Perfect</td>
