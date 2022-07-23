@@ -246,6 +246,20 @@ The tense of the participle shows its _relative time_ with respect to the main v
 
 [Latin Tutorial - Rule 72: The Relative Time of Participles](https://youtu.be/fuURK97hH_w)
 
+## Rules 73: Gerunds and Gerundives
+
+The _gerund_ and _gerundive_ are used in the _genitive_, _dative_, _accusative_, and _ablative_ cases in many different constructions.
+
+[Latin Tutorial - Rules 73: Gerunds and Gerundives](https://youtu.be/G45dbYuOy6w)
+
+## Rule 78: Relative Clauses of Characteristic
+
+A _relative clause_ with a verb in the subjunctive can indicate a _general characteristic_.  
+
+[Read More](rules/rule78.md)
+
+[Latin Tutorial - Rule 78: Relative Clauses of Characteristic](https://youtu.be/q_1qyqYD7yc)
+
 ## Rule 80: Result Clauses
 
 A clause show the _result of an action_ has a verb in the _subjunctive_ and is introduced by _ut_ or by a _relative pronoun_ or _adverb_.
