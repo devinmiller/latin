@@ -533,6 +533,15 @@ This should include the most common irregular verbs.
     </tr>
     <tr>
       <td>Future</td>
+      <td>volam</td>
+      <td>volēs</td>
+      <td>volet</td>
+      <td>volēmus</td>
+      <td>volētis</td>
+      <td>volent</td>
+    </tr>
+    <tr>
+      <td>Perfect</td>
       <td>voluī</td>
       <td>voluistī</td>
       <td>voluit</td>
@@ -541,31 +550,22 @@ This should include the most common irregular verbs.
       <td>voluērunt</td>
     </tr>
     <tr>
-      <td>Perfect</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
       <td>Pluperfect</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>volueram</td>
+      <td>voluerās</td>
+      <td>voluerat</td>
+      <td>voluerāmus</td>
+      <td>voluerātis</td>
+      <td>voluerant</td>
     </tr>
     <tr>
       <td>Future Perfect</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>voluerō</td>
+      <td>volueris</td>
+      <td>voluerit</td>
+      <td>voluerimus</td>
+      <td>volueritis</td>
+      <td>voluerint</td>
     </tr>
   </tbody>
   <thead>
@@ -576,39 +576,39 @@ This should include the most common irregular verbs.
   <tbody>
     <tr>
       <td>Present</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>velim</td>
+      <td>velīs</td>
+      <td>velit</td>
+      <td>velīmus</td>
+      <td>velītis</td>
+      <td>velint</td>
     </tr>
     <tr>
       <td>Imperfect</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>vellem</td>
+      <td>vellēs</td>
+      <td>vellet</td>
+      <td>vellēmus</td>
+      <td>vellētis</td>
+      <td>vellent</td>
     </tr>
     <tr>
       <td>Perfect</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>voluerim</td>
+      <td>voluerīs</td>
+      <td>voluerit</td>
+      <td>voluerīmus</td>
+      <td>voluerītis</td>
+      <td>voluerint</td>
     </tr>
     <tr>
       <td>Pluperfect</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>voluissem</td>
+      <td>voluissēs</td>
+      <td>voluisset</td>
+      <td>voluissēmus</td>
+      <td>voluissētis</td>
+      <td>voluissent</td>
     </tr>
   </tbody>
 </table>
