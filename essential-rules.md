@@ -234,6 +234,14 @@ The _time at or within which_ something happens is noted by the ablative case, w
 
 [Latin Tutorial - Rule 58: Time with the Ablative and Accusative](https://youtu.be/l2mn_eoG4hQ)
 
+## Rule 67: The Infinitive as a Subject
+
+The infinitive can serve as the _subject_ of _est_ or other similar verbs.
+
+[Read More](rules/rule67.md)
+
+[Latin Tutorial - Rule 67: The Infinitive as a Subject](https://youtu.be/ZlU43KHMBOQ)
+
 ## Rule 71: Sequence of Tenses
 
 A sentence with a _present or future tense main verb_ will be followed by a _present or perfect subjunctive_ verb in its dependent clause, and one with a _past tense main verb_ by an _imperfect of pluperfect subjunctive_ verb.

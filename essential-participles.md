@@ -1,6 +1,10 @@
 # Participles
 
-While not as common in English as in Latin, participles are _verbial adjectives_.  Because they describe nouns they share the noun's case, number, and gender.
+While not as common in English as in Latin, participles are _verbial adjectives_.  Participles share in the characteristics of both adjectives and verbs.  
+
+As _adjectives_ participles agree in case, number, and gender with the nouns they modify.  Sometimes, like _adjectives_, they modify no expressed noun but function as nouns themselves.  
+
+As _verbs_, participles have tense and voice; they may take direct objects or other constructions used with the particular verb; and they may be modified by an adverb or adverbial phrase.
 
 | | Active | Passive |
 | --- | :---: | :---: |

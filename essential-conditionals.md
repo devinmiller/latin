@@ -16,7 +16,7 @@ The _protasis_ is a subordinate clause usually introduced by **sī**, _if_, or *
 
 The _adoposis_ is the main clause which expresses the anticipated outcome if hte premise turns out to be true.
 
-There are six basic conditional types, three have verbs in the indicative, and three in the subnjunctive.
+There are six basic conditional types, three have verbs in the indicative, and three in the subjunctive.
 
 ## Indicative conditions
 
