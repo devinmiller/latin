@@ -192,6 +192,12 @@ The _direct object_ of a transitive verb is in the accusative case.
 
 ## Rule 41: The Ablative of Separation
 
+Words that signify _seperation_ take the ablative case.
+
+[Read More](rules/rule41.md)
+
+[Latin Tutorial - Rule 41: The Ablative of Separation](https://youtu.be/x_TPgzLk0So)
+
 ## Rule 42: The Ablative of Source/Material
 
 ## Rule 43: The Ablative of Cause
