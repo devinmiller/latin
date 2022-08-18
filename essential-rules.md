@@ -192,7 +192,7 @@ The _direct object_ of a transitive verb is in the accusative case.
 
 ## Rule 41: The Ablative of Separation
 
-Words that signify _seperation_ take the ablative case.
+Words that signify _separation_ take the ablative case.
 
 [Read More](rules/rule41.md)
 
@@ -200,7 +200,19 @@ Words that signify _seperation_ take the ablative case.
 
 ## Rule 42: The Ablative of Source/Material
 
+The ablative case is used to show the _source_ from which something comes from, or the material it is made of.
+
+[Read More](rules/rule42.md)
+
+[Latin Tutorial - Rule 42: The Ablative of Source/Material](https://youtu.be/9HJtA7RsPYI)
+
 ## Rule 43: The Ablative of Cause
+
+The ablative case is used to show the _cause of an action_, with or without a preposition.
+
+[Read More](rules/rule43.md)
+
+[Latin Tutorial - Rule 43: The Ablative of Cause](https://youtu.be/-72CWry11Fs)
 
 ## Rule 44: The Ablative of Agent
 
