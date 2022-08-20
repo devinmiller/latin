@@ -216,6 +216,12 @@ The ablative case is used to show the _cause of an action_, with or without a pr
 
 ## Rule 44: The Ablative of Agent
 
+The _doer_ of a _passive verb_ is idenditifed by the preposition _ab_ or _ā_ followed by the ablative case.
+
+[Read More](rules/rule44.md)
+
+[Latin Tutorial - Rule 44: The Ablative of Agent](https://youtu.be/N_Q15B6IbWU)
+
 ## Rule 45: The Ablative of Comparison
 
 ## Rule 46: Comparisons with Quam
