@@ -224,6 +224,12 @@ The _doer_ of a _passive verb_ is idenditifed by the preposition _ab_ or _ā_ fo
 
 ## Rule 45: The Ablative of Comparison
 
+The ablative case can be used following a _comparative_, signifying _than_.
+
+[Read More](rules/rule45.md)
+
+[Latin Tutorial - Rule 45: The Ablative of Comparison](https://youtu.be/wTyQM41nfUk)
+
 ## Rule 46: Comparisons with Quam
 
 ## Rule 47: The Ablative of Means/Instrument
