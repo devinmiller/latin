@@ -232,7 +232,19 @@ The ablative case can be used following a _comparative_, signifying _than_.
 
 ## Rule 46: Comparisons with Quam
 
+The _comparative_ can be followed by a _quam_, meaning _than_, and the two things compared must be put into the _same case_.
+
+[Read More](rules/rule46.md)
+
+[Latin Tutorial - Rule 46: Comparisons with Quam](https://youtu.be/Fm1EIvgFTvI)
+
 ## Rule 47: The Ablative of Means/Instrument
+
+The ablative case is used to show the _means_ or _instrument_ of an action.
+
+[Read More](rules/rule47.md)
+
+[Latin Tutorial - Rule 47: The Ablative of Means/Instrument](https://youtu.be/2TWKlRYqNvs)
 
 ## Rule 48: The Ablative with PUFF-V Deponents
 
