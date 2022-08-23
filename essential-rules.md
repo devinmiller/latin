@@ -248,7 +248,19 @@ The ablative case is used to show the _means_ or _instrument_ of an action.
 
 ## Rule 48: The Ablative with PUFF-V Deponents
 
+the deponents _ūtor_, _fruor_, _fungor_, _potior_, and _vēscor_, and their compounds, take their objects in the ablative case.
+
+[Read More](rules/rule48.md)
+
+[Latin Tutorial - Rule 48: The Ablative with PUFF-V Deponents](https://youtu.be/vlemej9a7tk)
+
 ## Rule 49: The Ablative with opus and ūsus
+
+The words **opus** and **ūsus**, when signifying need, take the ablative case.
+
+[Read More](rules/rule49.md)
+
+[Latin Tutorial - Rule 49: The Ablative with opus and ūsus](https://youtu.be/ukF3hAoLrw0)
 
 ## Rule 50: The Ablative of Manner
 
