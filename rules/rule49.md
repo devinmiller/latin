@@ -15,6 +15,20 @@ or
 
 _magistrates are needed_
 
-> nun **vīribus** ūsus est
+> nunc **vīribus** ūsus est
 
 _now there is a need **for strength**_
+
+> nunc **manibus rapidīs** ūsus est
+
+_now there is a need **for swift hands**_
+
+_opus est_ can also take an ablative perfect participle by itself.  
+
+> **matūrātō** opus est
+
+_there is a need **to hurry**_
+
+> sī quid opus **factō** esset
+
+_if there were any need **for action**_

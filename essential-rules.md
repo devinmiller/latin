@@ -264,9 +264,27 @@ The words **opus** and **ūsus**, when signifying need, take the ablative case.
 
 ## Rule 50: The Ablative of Manner
 
+_Manner_ is expressed by the ablative case, usually with the preposition _cum_.
+
+[Read More](rules/rule50.md)
+
+[Latin Tutorial - Rule 50: The Ablative of Manner](https://youtu.be/edMFJdnWSl4)
+
 ## Rule 51:The Ablative of Accompaniment
 
+_Accompaniment_ is indicated by the preposition _cum_ and the ablative.
+
+[Read More](rules/rule51.md)
+
+[Latin Tutorial - Rule 51:The Ablative of Accompaniment](https://youtu.be/W319yZbfMuM)
+
 ## Rule 52: The Ablative of Degree of Difference
+
+The ablative case is used to show the _degree of difference_ in comparisons.
+
+[Read More](rules/rule53.md)
+
+[Latin Tutorial - Rule 52: The Ablative of Degree of Difference](https://youtu.be/-a2lb9pTnEo)
 
 ## Rule 53: The Ablative of Description
 
