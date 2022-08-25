@@ -282,13 +282,25 @@ _Accompaniment_ is indicated by the preposition _cum_ and the ablative.
 
 The ablative case is used to show the _degree of difference_ in comparisons.
 
-[Read More](rules/rule53.md)
+[Read More](rules/rule52.md)
 
 [Latin Tutorial - Rule 52: The Ablative of Degree of Difference](https://youtu.be/-a2lb9pTnEo)
 
 ## Rule 53: The Ablative of Description
 
+_Description_ is noted by the ablative case _with an adjective_ that modifies it.
+
+[Read More](rules/rule53.md)
+
+[Latin Tutorial - Rule 53: The Ablative of Description](https://youtu.be/s_1xx9iC0t8)
+
 ## Rule 54: The Ablative of Price
+
+The _price_ of something is put into the ablative case.
+
+[Read More](rules/rule54.md)
+
+[Latin Tutorial - Rule 54: The Ablative of Price](https://youtu.be/Y69cLzFHVUs)
 
 ## Rule 55: The Ablative of Respect/Specification
 
