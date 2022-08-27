@@ -304,7 +304,19 @@ The _price_ of something is put into the ablative case.
 
 ## Rule 55: The Ablative of Respect/Specification
 
+The ablative case us used to show _in what respect something is done_.
+
+[Read More](rules/rule55.md)
+
+[Latin Tutorial - Rule 55: The Ablative of Respect/Specification](https://youtu.be/TsOyjHhxK-k)
+
 ## Rule 56: The Ablative with dignus and indignus
+
+The adjectives _dignus_ and _indignus_ take the ablative case.
+
+[Read More](rules/rule56.md)
+
+[Latin Tutorial - Rule 56: The Ablative with dignus and indignus](https://youtu.be/fmT-WKqQ3uk)
 
 ## Rule 57: The Ablative Absolute
 
