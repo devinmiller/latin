@@ -328,6 +328,8 @@ An _ablative absolute_ consists of a noun and a participle in the ablative case,
 
 The _time at or within which_ something happens is noted by the ablative case, while _duration of time_ is noted by the accusative.
 
+[Read More](rules/rule58.md)
+
 [Latin Tutorial - Rule 58: Time with the Ablative and Accusative](https://youtu.be/l2mn_eoG4hQ)
 
 ## Rule 67: The Infinitive as a Subject
