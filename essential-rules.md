@@ -30,7 +30,7 @@ Note: The genitives of nōs and vōs are _never_ used possessively.
 
 ## Rule 5: The Third Person Reflexive Pronoun
 
-The reflexive pronoun _suī_, _sibi_, _sē_, _sē_, and the possessive adjective _suus_ are used to refer tothe subject of the sentence.
+The reflexive pronoun _suī_, _sibi_, _sē_, _sē_, and the possessive adjective _suus_ are used to refer to the subject of the sentence.
 
 [Latin Tutorial - Rule 5: The Third Person Reflexive Pronoun](https://youtu.be/6W6P9_ArF9M)
 
@@ -39,6 +39,18 @@ The reflexive pronoun _suī_, _sibi_, _sē_, _sē_, and the possessive adjective
 We _never_ use the genitive pronoun for possession.  Instead, we use the _possessive adjective_.
 
 [Latin Tutorial - Rule 6: Possession with Pronouns](https://youtu.be/GIhedzfeyHk)
+
+## Rule 7: Possessive Adjectives and the Genitive
+
+When you have a _possessive adjective_, you can also have a noun in the _genitive_ case to further describe the adjective.
+
+[Latin Tutorial - Rule 7: Possessive Adjectives and the Genitive](https://youtu.be/DF0tGYcB07o)
+
+## Rule 8: Case, Number, and Gender of the Relative Pronoun
+
+The relative pronoun agrees with its antecedent in _gender_ and _number_, but its _case_ depends on how it's used in the relative clause.
+
+[Latin Tutorial - Rule 8: Case, Number, and Gender of the Relative Pronoun](https://youtu.be/mD-i-5qu4jo)
 
 ## Rule 15: The Basics of the Genitive Case
 
@@ -331,6 +343,18 @@ The _time at or within which_ something happens is noted by the ablative case, w
 [Read More](rules/rule58.md)
 
 [Latin Tutorial - Rule 58: Time with the Ablative and Accusative](https://youtu.be/l2mn_eoG4hQ)
+
+## Rule 59: Relations of Place with the Ablative and Accusative
+
+_Motion from_ is illustrated by the prepositions _ab_, _dē_, and _ex_ followed by the ablative.  _Location_ uses the preposition _in_ plus the ablative.  _Motion towards_ has the prepositions _ad_ or _in_ with the accusative case.
+
+[Latin Tutorial - Rule 59: Relations of Place with the Ablative and Accusative](https://youtu.be/eLAxlScE50M)
+
+## Rule 60: Nouns that Take the Locative Case
+
+_Cities_, _towns_, and _small islands_ take the _locative_ case, as do a few other words like _domus_ and _rūs_.  In addition, _motion towards_ is illustrated by the _accusative_, _motion from_ by the _ablative_, both without prepositions.
+
+[Latin Tutorial - Nouns that Take the Locative Case](https://youtu.be/Mv8Ru8B7Buw)
 
 ## Rule 67: The Infinitive as a Subject
 
