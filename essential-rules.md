@@ -52,6 +52,24 @@ The relative pronoun agrees with its antecedent in _gender_ and _number_, but it
 
 [Latin Tutorial - Rule 8: Case, Number, and Gender of the Relative Pronoun](https://youtu.be/mD-i-5qu4jo)
 
+## Rule 9: Subject Verb Agreement
+
+A conjugated verb will have the same _number_ and _person_ as its subject.
+
+[Latin Tutorial - Rule 9: Subject Verb Agreement](https://youtu.be/eUsyV0FNTd4)
+
+## Rule 10: What Adverbs Modify
+
+Adverbs modify not just _verbs_, but also _adjectives_ and other _adverbs_.
+
+[Latin Tutorial - Rule 10: What Adverbs Modify](https://youtu.be/vuINzDI3_sA)
+
+## Rule 11: Yes or No Questions
+
+A simple question that has a _yes or no answer_ is formed by adding a -_ne_ to the end of the first word, usually.
+
+[Latin Tutorial - Rule 11: Yes or No Questions](https://youtu.be/9KSYsnhyhQY)
+
 ## Rule 15: The Basics of the Genitive Case
 
 A noun in the _genitive case_ is used to _limit_ or _define_ another noun.
