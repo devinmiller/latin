@@ -49,7 +49,7 @@ An Indirect Question is a type of subjunctive clause that reports a question ask
 A Cum Clause is a subordinate clause that starts with "cum" and contains a subjunctive. There are three types of Cum clauses. The translation of the cum changes depending on the context of the clause:
 
 - Cum Temporal: cum translated as "when" or "after"
-- Cum Curcumstantial: cum translated as "when" or "after"
+- Cum Circumstantial: cum translated as "when" or "after"
 - Cum Concessive: cum translated as "although"
 - Cum Causal: cum translated as "because" or "since"
 

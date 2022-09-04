@@ -380,6 +380,12 @@ _Cities_, _towns_, and _small islands_ take the _locative_ case, as do a few oth
 
 [Latin Tutorial - Nouns that Take the Locative Case](https://youtu.be/Mv8Ru8B7Buw)
 
+## Rule 61: The Jussive Subjunctive
+
+The _hortatory_ or _jussive_ subjunctive is used in the present tense to express a _gentle command_, _urging_, or _concession_.
+
+[Latin Tutorial - Rule 61: The Jussive Subjunctive](https://youtu.be/kN0nwl5YcOw)
+
 ## Rule 67: The Infinitive as a Subject
 
 The infinitive can serve as the _subject_ of _est_ or other similar verbs.
