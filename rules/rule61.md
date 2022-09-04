@@ -10,6 +10,6 @@ This is usually translated in English with the word _let_.
 
 For example:
 
-> <span style="color: green;">eāmus</span>
+> :green_circle:eāmus:green_circle:
 
-_<span style="color: green">let us go</span>_
+*:green_cicrle:let us go:green_cicrle:*
