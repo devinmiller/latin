@@ -8,7 +8,7 @@ These are the instances where the subjunctive is used in main clause, making up 
 
 ### Jussive/Hortatory
 
-Used to express a mild command or exhortation, i.e. _let_ us go to the movie, especially in the first or third person.
+Used to express a mild command or exhortation, i.e. _let_ us go to the movies, especially in the first or third person.
 
 Easily recognized since the sentence's main, and often only, verb is in the subjunctive.  
 
@@ -22,9 +22,13 @@ Show a possibility where the future is still unclear, i.e. We _could_ go to the 
 
 Denotes a wish, i.e. I _wish_ we could go to the movies.
 
+[Rule 62 - The Optative Subjunctive](essential-rules.md#rule-62-the-optative-subjunctive)
+
 ### Deliberative (Question)
 
 Questions that reflect doubt, or even an impossibility, i.e. _Should_ we go to he movies?
+
+[Rule 63 - The Deliberative Subjunctive](essential-rules.md#rule-63-the-deliberative-subjunctive)
 
 ## Dependent Clauses
 

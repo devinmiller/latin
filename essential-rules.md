@@ -384,7 +384,25 @@ _Cities_, _towns_, and _small islands_ take the _locative_ case, as do a few oth
 
 The _hortatory_ or _jussive_ subjunctive is used in the present tense to express a _gentle command_, _urging_, or _concession_.
 
+[Read More](rules/rule61.md)
+
 [Latin Tutorial - Rule 61: The Jussive Subjunctive](https://youtu.be/kN0nwl5YcOw)
+
+## Rule 62: The Optative Subjunctive
+
+The _optative_ subjunctive is used to express a _wish_.
+
+[Read More](rules/rule62.md)
+
+[Latin Tutorial - Rule 62: The Optative Subjunctive](https://youtu.be/SImVHG_Oxxg)
+
+## Rule 63: The Deliberative Subjunctive
+
+The _deliberative_ subjunctive is used in questions that suggest _doubt_, _indignation_, or an _impossibility_.
+
+[Read More](rules/rule63.md)
+
+[Latin Tutorial - Rule 63: The Deliberative Subjunctive](https://youtu.be/OlZcgvykudg)
 
 ## Rule 67: The Infinitive as a Subject
 
