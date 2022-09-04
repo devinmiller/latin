@@ -70,6 +70,12 @@ A simple question that has a _yes or no answer_ is formed by adding a -_ne_ to t
 
 [Latin Tutorial - Rule 11: Yes or No Questions](https://youtu.be/9KSYsnhyhQY)
 
+## Rule 12: Nōnne and Num
+
+The word _nōnne_ introduces a question expecting a "yes" answer, while _num_ introduces and question expecting a "no" answer.
+
+[Latin Tutorial - Rule 12: Nōnne and Num](https://youtu.be/kz42LRrft-s)
+
 ## Rule 15: The Basics of the Genitive Case
 
 A noun in the _genitive case_ is used to _limit_ or _define_ another noun.
