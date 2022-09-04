@@ -8,7 +8,11 @@ These are the instances where the subjunctive is used in main clause, making up 
 
 ### Jussive/Hortatory
 
-Used to express a mild command, i.e. _Let_ us go to the movies.
+Used to express a mild command or exhortation, i.e. _let_ us go to the movie, especially in the first or third person.
+
+Easily recognized since the sentence's main, and often only, verb is in the subjunctive.  
+
+[Rule 61 - The Jussive Subjunctive](essential-rules.md#rule-61-the-jussive-subjunctive)
 
 ### Potential
 
