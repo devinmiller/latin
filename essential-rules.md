@@ -404,6 +404,14 @@ The _deliberative_ subjunctive is used in questions that suggest _doubt_, _indig
 
 [Latin Tutorial - Rule 63: The Deliberative Subjunctive](https://youtu.be/OlZcgvykudg)
 
+## Rule 64: The Potential Subjunctive
+
+The _potential_ subjunctive is used to suggest a _possible_ or _conceivable_ action.
+
+[Read More](rules/rule64.md)
+
+[Latin Tutorial - Rule 64: The Potential Subjunctive](https://youtu.be/R16Mj0yPGbs)
+
 ## Rule 67: The Infinitive as a Subject
 
 The infinitive can serve as the _subject_ of _est_ or other similar verbs.

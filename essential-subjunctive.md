@@ -18,6 +18,8 @@ Easily recognized since the sentence's main, and often only, verb is in the subj
 
 Show a possibility where the future is still unclear, i.e. We _could_ go to the movies.
 
+[Rule 64 - The Potential Subjunctive](essential-rules.md#rule-64-the-potential-subjunctive)
+
 ### Optative
 
 Denotes a wish, i.e. I _wish_ we could go to the movies.
