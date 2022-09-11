@@ -19,6 +19,12 @@ In Latin, verbs typically have four principal parts.
 1. 1st person singular perfect active indicative
 1. 1st person masculine singular perfect passive indicative
 
+## Translating
+
+| Tense | Voice | Translations |
+| --- | --- | --- |
+| Present | Active | <ul><li>_verb_ (simple present)</li><li>are *verb*ing (progressive present)</li><li>do _verb_ (emphatic present)</li></ul> |
+
 ## Deponent Verbs
 
 Deponent verbs are those that have passive endings buy active meanings.  
