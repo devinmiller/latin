@@ -76,6 +76,12 @@ The word _nōnne_ introduces a question expecting a "yes" answer, while _num_ in
 
 [Latin Tutorial - Rule 12: Nōnne and Num](https://youtu.be/kz42LRrft-s)
 
+## Rule 13: The Nominative Case
+
+The _subject_ of a verb is in the _nominative case_.
+
+[Latin Tutorial - Rule 13: The Nominative Case](https://youtu.be/-JpCdQ3mp8M)
+
 ## Rule 15: The Basics of the Genitive Case
 
 A noun in the _genitive case_ is used to _limit_ or _define_ another noun.
@@ -225,6 +231,12 @@ The dative case is used with _adjectives_ and some adverbs of _fitness, nearness
 The _direct object_ of a transitive verb is in the accusative case.
 
 [Latin Tutorial - Rule 34: The Direct Object Accusative](https://youtu.be/R0_mGbe5Bxo)
+
+## Rule 35: The cognate Accusative
+
+An _intransitive verb_ can take an accusative of a noun with similar meaning.
+
+[Latin Tutorial - Rule 35: The cognate Accusative](https://youtu.be/niPtacy7wBA)
 
 ## Rule 41: The Ablative of Separation
 
