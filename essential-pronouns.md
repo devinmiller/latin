@@ -4,7 +4,7 @@ This page covers the basics of pronouns, including demonstrative pronouns.
 
 ## Demonstrative Pronouns
 
-Demonstrative pronouns and adjectives are adjectives and pronouns that in general "point" to persons or things that are relatively near to, or far from, a speaker or addressee.
+Demonstratives are adjectives and pronouns that in general "point" to persons or things that are relatively near to, or far from, a speaker or addressee.
 
 <table>
   <thead>
@@ -183,6 +183,16 @@ Demonstrative pronouns and adjectives are adjectives and pronouns that in genera
     </tr>
   </tbody>
 </table>
+
+The demonstrative pronoun _ille, illa, illud_ means _that_ and really refers to things that are far in distance, or sometimes far in time or thought.  Typically used as an adjective, but can function as a noun.  
+
+Can also be used to show what is farther away (_the former_) in the actual sentence, often paired with a form of _hic, haec, hoc_ (_the latter_) to show what is nearer.
+
+While _ille, illa, illud_ usually comes before the noun, it takes on special significance when it comes after fēles illa (that _famous_ cat).
+
+The demonstrative pronoun _hic, haec, hoc_ mean _this__ and really refer to things that are near in distance, or sometimes near in time or thought.  Can also be used the show what is nearer (_the latter_) in an actual sentence, often paired with a form of _ille, illa, illud_ (_the former_) to show what is farther.
+
+The demonstrative pronoun _iste, ista, istud_ means _that_, but sometimes in a negative, pejorative way.  Used commonly as just a regular form of _that_, but its meaning can be a bit more nuanced.  Can often be a _that_ used in reference to a second person (that...of yours).  A _you_, either _that_ possessed by a _you_, or even just near the _you_.
 
 <table>
   <thead>
@@ -650,7 +660,7 @@ A personal pronoun is a word used "in place of a noun" to desginate a paricular 
 
 ## Reflexive Pronouns
 
-Reflexive pronouns differ from other pronouns in that they are used ordinarily only in the predicate and refer back to the subject.  Since reflexive pronouns _refer_ to the subject, they cann;t _be_ the subject, and hence have no nominative case.
+Reflexive pronouns differ from other pronouns in that they are used ordinarily only in the predicate and refer back to the subject.  Since reflexive pronouns _refer_ to the subject, they cannot _be_ the subject, and hence have no nominative case.
 
 <table>
   <thead>
