@@ -396,7 +396,9 @@ The Romans used the intensive pronoun to emphasize any noun or pronoun in either
 
 ## Personal Pronouns
 
-A personal pronoun is a word used "in place of a noun" to desginate a paricular person, from the speaker's point of view: the first person pronoun indicates the speaker herself or himself, the second person pronoun indicates the person(s) addressed by the speaker, and the third person prnoun indicates the person(s) or thing(s) the speaker is talking about.
+A personal pronoun is a word used "in place of a noun" to desginate a paricular person, from the speaker's point of view.
+
+The first person pronoun indicates the speaker herself or himself.
 
 <table>
   <thead>
@@ -461,6 +463,8 @@ A personal pronoun is a word used "in place of a noun" to desginate a paricular 
   </tbody>
 </table>
 
+The second person pronoun indicates the person(s) addressed by the speaker.
+
 <table>
   <thead>
     <tr>
@@ -497,7 +501,7 @@ A personal pronoun is a word used "in place of a noun" to desginate a paricular 
     </tr>
     <tr>
       <td colspan="3"></td>
-      <td>vostrī</td>
+      <td>vestrī</td>
       <td><span style="font-style: italic;">(of you)</span></td>
     </tr>
     <tr>
@@ -523,6 +527,10 @@ A personal pronoun is a word used "in place of a noun" to desginate a paricular 
     </tr>
   </tbody>
 </table>
+
+The genitive forms of _ego_ and _tū_ were not used to indicate possession, for which the Romans preferred to use the possessive adjectives **meus, -a, -um** (_my_), **tuus, -a, -um** (_your_), **noster, nostra, nostrum** (_our_), and **vester, vestra, vestrum** (_your_).
+
+The demonstrative _is, ea, id_ means _that_, but is also commonly used in Latin as the 3rd person personal pronoun.  When you mean someoneone other than the subject, you use _is, ea, id_.  The third person pronoun indicates the person(s) or thing(s) the speaker is talking about.  If we want to refer to the same person as the subject we would use a _reflexive_ pronoun.  
 
 <table>
   <thead>
@@ -657,6 +665,8 @@ A personal pronoun is a word used "in place of a noun" to desginate a paricular 
     </tr>
   </tbody>
 </table>
+
+When _cum_ was employed with the ablative of the personal pronouns, it was generally suffixed to the pronoun, rather than preceding it as a separate preposition.  For example, _nōbīscum_,  instead of _cum nōbīs_.
 
 ## Reflexive Pronouns
 
