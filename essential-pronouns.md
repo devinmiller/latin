@@ -676,13 +676,6 @@ Reflexive pronouns differ from other pronouns in that they are used ordinarily o
   <thead>
     <tr>
       <th></th>
-      <th colspan="6">
-        <span style="font-weight:bold">3rd person - Is, Ea, Id</span>
-        <span style="font-style: italic;">He, She, It</span>
-      </th>
-    </tr>
-    <tr>
-      <th></th>
       <th colspan="2">
         <div style="font-weight: bold; text-align: center;">1st Pers.</div>
       </th>

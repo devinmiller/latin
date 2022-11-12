@@ -26,6 +26,9 @@ In Latin, verbs typically have four principal parts.
 | Present | Active | <ul><li>_verb_ (simple present)</li><li>are *verb*ing (progressive present)</li><li>do _verb_ (emphatic present)</li></ul> |
 | Future | Active | <ul><li>will _verb_</li></ul> |
 | Imperfect | Active | <ul><li>was *verb*ing (going on)</li><li>kept *verb*ing (repeated)</li><li>used to _verb_ (habitual)</li><li>tried to _verb_ (attempted)</li><li>was beginning to _verb (just beginning)</li></ul> |
+| Perfect | Active | <ul><li>*verb*ed</li><li>have *verb*ed</li></ul> |
+| Future Perfect | Active | <ul><li>had *verb*ed</li></ul> |
+| Pluperfect | Active | <ul><li>will have *verb*ed</li></ul> |
 
 ## Deponent Verbs
 
