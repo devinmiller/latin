@@ -65,7 +65,7 @@ Includes a large group of abstract nouns, for abstract concepts.
 
 Tips for identifying i-stem nouns.
 
-1. Most masculine and feminine nouns that have a nom. sg. in **-is** or **-ēs**, and the same number of syllables in both the nom and gen. cases.
+1. Most masculine and feminine nouns that have a nom. sg. in **-is** or **-ēs**, and the same number of syllables in both the nom. and gen. cases.
 
 2. Masculine and (chiefly) feminine nouns with a nom. sg. in **-s** or **-x** which have a base ending in two consonants.
 
