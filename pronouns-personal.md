@@ -134,7 +134,7 @@ The second person pronoun indicates the person(s) addressed by the speaker.
 
 The genitive forms of _ego_ and _tū_ were not used to indicate possession, for which the Romans preferred to use the possessive adjectives **meus, -a, -um** (_my_), **tuus, -a, -um** (_your_), **noster, nostra, nostrum** (_our_), and **vester, vestra, vestrum** (_your_).
 
-The demonstrative _is, ea, id_ means _that_, but is also commonly used in Latin as the 3rd person personal pronoun.  When you mean someoneone other than the subject, you use _is, ea, id_.  The third person pronoun indicates the person(s) or thing(s) the speaker is talking about.  If we want to refer to the same person as the subject we would use a _reflexive_ pronoun.  
+The demonstrative _is, ea, id_ means _that_, but is also commonly used in Latin as the 3rd person personal pronoun.  When you mean someone other than the subject, you use _is, ea, id_.  The third person pronoun indicates the person(s) or thing(s) the speaker is talking about.  If we want to refer to the same person as the subject we would use a _reflexive_ pronoun.  
 
 <table>
   <thead>

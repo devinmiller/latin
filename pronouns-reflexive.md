@@ -108,3 +108,7 @@ Reflexive pronouns differ from other pronouns in that they are used ordinarily o
     </tr>
   </tbody>
 </table>
+
+The adjective **suus, sua, suum** is the 3rd person reflexive possessive.  Like any adjective **suus, sua, suum** must agree with the noun it modifies in number, gender, and case.  The English translation, however, must reflect the gender and number of the subject to which it refers.  
+
+The reflexive possessive must be distinguished from the nonreflexive possessive genitives **euis, eōrum, eārum** which refer to some person(s) other than the subject.
