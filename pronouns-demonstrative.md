@@ -186,7 +186,7 @@ Can also be used to show what is farther away (_the former_) in the actual sente
 
 While _ille, illa, illud_ usually comes before the noun, it takes on special significance when it comes after fēles illa (that _famous_ cat).
 
-The demonstrative pronoun _hic, haec, hoc_ mean _this__ and really refer to things that are near in distance, or sometimes near in time or thought.  Can also be used the show what is nearer (_the latter_) in an actual sentence, often paired with a form of _ille, illa, illud_ (_the former_) to show what is farther.
+The demonstrative pronoun _hic, haec, hoc_ mean _this_ and really refer to things that are near in distance, or sometimes near in time or thought.  Can also be used the show what is nearer (_the latter_) in an actual sentence, often paired with a form of _ille, illa, illud_ (_the former_) to show what is farther.
 
 The demonstrative pronoun _iste, ista, istud_ means _that_, but sometimes in a negative, pejorative way.  Used commonly as just a regular form of _that_, but its meaning can be a bit more nuanced.  Can often be a _that_ used in reference to a second person (that...of yours).  A _you_, either _that_ possessed by a _you_, or even just near the _you_.
 
