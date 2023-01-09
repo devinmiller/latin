@@ -1,6 +1,6 @@
 # Rule 44: The Ablative of Agent
 
-The _doer_ of a _passive verb_ is idenditifed by the preposition _ab_ or _ā_ followed by the ablative case.
+The _doer_ of a _passive verb_ is identified by the preposition _ab_ or _ā_ followed by the ablative case.
 
 > mīles vulnerātus est **ab hoste**
 
@@ -18,7 +18,7 @@ With passive verbs we often find an ablative of means/instrument instead of an a
 | --- | --- |
 | mīles **ab hoste** vulnerātus est | mīles **gladiō** vulnerātus est |
 | separative function | instrumental function |
-| requests **ab**/**ā** | mo preposition |
+| requires **ab**/**ā** | no preposition |
 | used with people as the agent | used with inanimate objects |
 
 Can also use the preposition per + accusative to show means of agent.

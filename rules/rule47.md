@@ -37,5 +37,5 @@ _the solder was slain **by a sword**_
 | mīles **ā dūce** occīsus est | mīles **gladiō** occīsus est |
 | _the solder was slain **by the leader**_ | _the solder was slain **by a sword**_ |
 | separative function | instrumental function |
-| requests **ab**/**ā** | no preposition |
+| requires **ab**/**ā** | no preposition |
 | used with people as the agent | used with inanimate objects (mostly) |
