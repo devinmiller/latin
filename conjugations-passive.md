@@ -51,7 +51,7 @@ Verbs with the _present passive infinitive_ form ending in **-ārī**.
         <td>3<sup>rd</sup></td>
         <td>-ātur</td>
         <td>-ābitur</td>
-        <td>-ābatur</td>
+        <td>-ābātur</td>
         <td>-ētur</td>
         <td>-ārētur</td>
       </tr>
