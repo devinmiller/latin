@@ -40,3 +40,14 @@ When _cum_ is used with a personal, reflexive, or relative pronoun it is regular
 Manner, how an action is done, is expressed by the ablative case, usually with the preposition _cum_.
 
 When there is adjective with the ablative, Latin likes to omit the _cum_ preposition.
+
+### Ablative of Place from Which
+
+Describes active motion away from a place. Nouns, either proper or common, are almost always used in this sense with accompanying prepositions ab/ā/abs
+
+Describes active motion away from a place.  Regularly involves a verb of active motion from one place to another; nearly always, too, the ablative is governed by one of the prepositions _ab_, _dē_, or _ex_.
+
+### Ablative of Separation
+
+Implies only that some person or thing is separate from another; there is no movement from one place to another; and sometimes there is no preposition, particularly with certain verbs meaning “to free,” “to lack,” and “to deprive,” which commonly take an ablative of separation
+
