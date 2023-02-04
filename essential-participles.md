@@ -12,7 +12,13 @@ As _verbs_, participles have tense and voice; they may take direct objects or ot
 | Perfect | --- | _participial_ stem + -**us**, -**a**, -**um** <br /> having been *verb*ed, *verb*ed |
 | Future | _participial_ stem + -**ūrus**, -**ūra**, -**ūrum** <br /> about/going to *verb* | _present_ stem + -**ndus**, -**nda**, -**ndum** <br /> to be *verb*ed |
 
-The **future perephrastic** is formed by combining the _future active_ participle with a form of _sum, esse_.
+The action indicated by participles is not absolute, but relative to that of the main verb.
+
+1. Present participle = action _contemporaneous_ with that of the verb (same time)
+1. Perfect participle = action _prior_ to that of the verb (time before)
+1. Future participle = action _subsequent_ to that of the verb (time after)
+
+The **future periphrastic** is formed by combining the _future active_ participle with a form of _sum, esse_.
 
 - _is_ going to be *verb*
 - _was_ going to *verb*
