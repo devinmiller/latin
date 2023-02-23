@@ -1,1 +1,3 @@
-# latin-102
+# Latin Studies
+
+Notes, flashcards, etc.
