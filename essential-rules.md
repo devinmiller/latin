@@ -84,6 +84,8 @@ A simple question that has a _<span style="color: limegreen">yes or no answer</s
 
 The word <span style="color: limegreen">_nōnne_</span> introduces a question expecting a "yes" answer, while <span style="color: limegreen">_num_</span> introduces and question expecting a "no" answer.
 
+[Read More](rules/rule12.md)
+
 [Latin Tutorial - Rule 12: Nōnne and Num](https://youtu.be/kz42LRrft-s)
 
 ## Rule 13: The Nominative Case
