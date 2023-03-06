@@ -42,37 +42,47 @@ We _never_ use the genitive pronoun for possession.  Instead, we use the _posses
 
 ## Rule 7: Possessive Adjectives and the Genitive
 
-When you have a _possessive adjective_, you can also have a noun in the _genitive_ case to further describe the adjective.
+When you have a _<span style="color: limegreen">possessive adjective</span>_, you can also have a noun in the <span style="color: limegreen">_genitive_</span> case to further describe the adjective.
+
+[Read More](rules/rule7.md)
 
 [Latin Tutorial - Rule 7: Possessive Adjectives and the Genitive](https://youtu.be/DF0tGYcB07o)
 
 ## Rule 8: Case, Number, and Gender of the Relative Pronoun
 
-The relative pronoun agrees with its antecedent in _gender_ and _number_, but its _case_ depends on how it's used in the relative clause.
+The relative pronoun agrees with its antecedent in <span style="color: limegreen">_gender_</span> and <span style="color: limegreen">_number_</span>, but its <span style="color: limegreen">_case_</span> depends on how it's used in the relative clause.
+
+[Read More](rules/rule8.md)
 
 [Latin Tutorial - Rule 8: Case, Number, and Gender of the Relative Pronoun](https://youtu.be/mD-i-5qu4jo)
 
 ## Rule 9: Subject Verb Agreement
 
-A conjugated verb will have the same _number_ and _person_ as its subject.
+A conjugated verb will have the same <span style="color: limegreen">_number_</span> and <span style="color: limegreen">_person_</span> as its subject.
+
+[Read More](rules/rule9.md)
 
 [Latin Tutorial - Rule 9: Subject Verb Agreement](https://youtu.be/eUsyV0FNTd4)
 
 ## Rule 10: What Adverbs Modify
 
-Adverbs modify not just _verbs_, but also _adjectives_ and other _adverbs_.
+Adverbs modify not just <span style="color: limegreen">_verbs_</span>, but also <span style="color: limegreen">_adjectives_</span> and other <span style="color: limegreen">_adverbs_</span>.
+
+[Read More](rules/rule10.md)
 
 [Latin Tutorial - Rule 10: What Adverbs Modify](https://youtu.be/vuINzDI3_sA)
 
 ## Rule 11: Yes or No Questions
 
-A simple question that has a _yes or no answer_ is formed by adding a -_ne_ to the end of the first word, usually.
+A simple question that has a _<span style="color: limegreen">yes or no answer</span>_ is formed by adding a -<span style="color: limegreen">_ne_</span> to the end of the first word, usually.
+
+[Read More](rules/rule11.md)
 
 [Latin Tutorial - Rule 11: Yes or No Questions](https://youtu.be/9KSYsnhyhQY)
 
 ## Rule 12: Nōnne and Num
 
-The word _nōnne_ introduces a question expecting a "yes" answer, while _num_ introduces and question expecting a "no" answer.
+The word <span style="color: limegreen">_nōnne_</span> introduces a question expecting a "yes" answer, while <span style="color: limegreen">_num_</span> introduces and question expecting a "no" answer.
 
 [Latin Tutorial - Rule 12: Nōnne and Num](https://youtu.be/kz42LRrft-s)
 
