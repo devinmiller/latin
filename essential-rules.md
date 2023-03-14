@@ -104,7 +104,7 @@ A noun in the _genitive case_ is used to _limit_ or _define_ another noun.
 
 ## Rule 16: The Genitive of Possession
 
-The _genitive_ can be used to show the person or thing that _possesses_ something else.
+The <span style="color: limegreen">_genitive_</span> can be used to show the person or thing that <span style="color: limegreen">_possesses_</span> something else.
 
 [Read More](rules/rule16.md)
 
@@ -112,7 +112,7 @@ The _genitive_ can be used to show the person or thing that _possesses_ somethin
 
 ## Rule 17: The Genitive of Material
 
-The _genitive_ can be used for the _material_ from which something is made, or the _substance_ of which it consists.
+The <span style="color: limegreen">_genitive_</span> can be used for the <span style="color: limegreen">_material_</span> from which something is made, or the <span style="color: limegreen">_substance_</span> of which it consists.
 
 [Read More](rules/rule17.md)
 
@@ -120,7 +120,7 @@ The _genitive_ can be used for the _material_ from which something is made, or t
 
 ## Rule 18: The Genitive of Description
 
-The _genitive_ case can be used to _describe_ a characteristic of something, provided that there's an _accompanying adjective_.
+The <span style="color: limegreen">_genitive_</span> case can be used to <span style="color: limegreen">_describe_</span> a characteristic of something, provided that there's an <span style="color: limegreen">_accompanying adjective_</span>.
 
 [Read More](rules/rule18.md)
 
@@ -128,7 +128,7 @@ The _genitive_ case can be used to _describe_ a characteristic of something, pro
 
 ## Rule 19: The Genitive of the Whole
 
-The _genitive of the whole_ often follows words that denote a part.
+The <span style="color: limegreen">_genitive of the whole_</span> (partitive genitive) often follows words that denote a part.
 
 [Read More](rules/rule19.md)
 
@@ -136,7 +136,7 @@ The _genitive of the whole_ often follows words that denote a part.
 
 ## Rule 20: The Objective Genitive
 
-Nouns that describe _actions_ or _feelings_ take the _objective genitive_.
+Nouns that describe <span style="color: limegreen">_actions_</span> or <span style="color: limegreen">_feelings_</span> take the <span style="color: limegreen">_objective genitive_</span>.
 
 [Read More](rules/rule20.md)
 
@@ -144,7 +144,9 @@ Nouns that describe _actions_ or _feelings_ take the _objective genitive_.
 
 ## Rule 21: The Genitive with Adjectives
 
-These adjectives take the _genitive case_: those denoting _desire_, _knowledge_, _memory_, _fullness_, _power_, _sharing_, _guilt_ (and their opposites); _present participles_ when used as adjectives; and verbal adjectives that end in -_āx_.
+These adjectives take the <span style="color: limegreen">_genitive case_</span>: those denoting <span style="color: limegreen">_desire_</span>, <span style="color: limegreen">_knowledge_</span>, <span style="color: limegreen">_memory_</span>, <span style="color: limegreen">_fullness_</span>, <span style="color: limegreen">_power_</span>, <span style="color: limegreen">_sharing_</span>, <span style="color: limegreen">_guilt_</span> (and their opposites); _<span style="color: limegreen">present participles</span>_ when used as adjectives; and verbal adjectives that end in -<span style="color: limegreen">_āx_</span>.
+
+[Read More](rules/rule21.md)
 
 [Latin Tutorial - Rule 21: The Genitive with Adjectives](https://youtu.be/VTXrYnZsB-I)
 
@@ -214,9 +216,9 @@ The dative often depends on the _general meaning_ of the sentence when it's the 
 
 [Latin Tutorial - Rule 30: The Dative of Reference](https://youtu.be/Km7jNpFx0eA)
 
-## Rule 31: The Dative of Seperation
+## Rule 31: The Dative of Separation
 
-Many verbs of _taking away_ take the _dative of seperation_ instead of the ablative, especially when referring to people.
+Many verbs of _taking away_ take the _dative of separation_ instead of the ablative, especially when referring to people.
 
 [Read More](rules/rule31.md)
 

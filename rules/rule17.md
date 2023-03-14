@@ -1,32 +1,30 @@
 # Rule 17: The Genitive of Material
 
-The _genitive_ can be used for the _material_ from which something is made, or the _substance_ of which it consists.
+The <span style="color: limegreen">_genitive_</span> can be used for the <span style="color: limegreen">_material_</span> from which something is made, or the <span style="color: limegreen">_substance_</span> of which it consists.
 
-> pōculum **aurī**
+> pōculum <span style="color: cyan">aurī</span>
 
-_a cup **of gold**_
+_a cup (made) <span style="color: cyan">of gold</span>_
 
-Not a cup filled with gold, but a cup made out of gold.
+> casa <span style="color: cyan">stāminis</span>
 
-> casa **stāminis**
+_a house (made) <span style="color: cyan">of straw</span>_
 
-_a house **of straw**_
+> casa <span style="color: cyan">virgae</span>
 
-> casa **virgae**
+_a house (made) <span style="color: cyan">of twig</span>_
 
-_a house **of twig**_
+>casa <span style="color: cyan">lateris</span>
 
->casa **lateris**
-
-_a house **of brick**_
+_a house (made) <span style="color: cyan">of brick</span>_
 
 Similar in meaning to the _ablative of material_.
 
 | genitive | ablative |
 | --- | --- |
-| valvae **aurī** | valvae **ex aurō** |
-| _a house **of gold**_ | _a house (made) **from gold**_ | 
-| templum **marmoris** | templum **dē marmore** | 
-| _a temple **of marble**_ | _a temple (made) **from marble**_ |
+| valvae <span style="color: cyan">aurī</span> | valvae <span style="color: cyan">ex aurō</span> |
+| _a house (made) <span style="color: cyan">of gold</span>_ | _a house (made) <span style="color: cyan">from gold</span>_ | 
+| templum <span style="color: cyan">marmoris</span> | templum <span style="color: cyan">dē marmore</span> | 
+| _a temple (made) <span style="color: cyan">of marble</span>_ | _a temple (made) <span style="color: cyan">from marble</span>_ |
 
 There isn't much of a difference between the two.

@@ -42,4 +42,4 @@ An **ablative absolute** is often a _noun_ and a _participle_ (though not always
 - also can show cause, concession, condition, means, or manner
 - the _noun_ is detached from the rest of the sentence
 
-The **dative of agent** is used with the **passive periphrastic**/**gerundive** to show who must do the action.
+The **dative of agent** is used with the **passive periphrastic**/**gerundive** to show who must do the action.  A literal translation often sounds awkward, so it is generally best to transform such clauses into active constructions.

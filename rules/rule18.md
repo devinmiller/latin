@@ -1,28 +1,24 @@
 # Rule 18: The Genitive of Description
 
-The _genitive_ case can be used to _describe_ a characteristic of something, provided that there's an _accompanying adjective_.
+The <span style="color: limegreen">_genitive_</span> case can be used to <span style="color: limegreen">_describe_</span> a characteristic of something, provided that there's an <span style="color: limegreen">_accompanying adjective_</span>.
 
 The accompanying adjective is absolutely required for this use of the genitive.
 
-> vir **summae virtūtis**
+> vir <span style="color: cyan">summae virtūtis</span>
 
-_a man **of highest courage**_
+_a man <span style="color: cyan">of highest courage</span>_
 
-> formīca **magnī labōris**
+> formīca <span style="color: cyan">magnī labōris</span>
 
-_an ant **of great toil**_
+_an ant <span style="color: cyan">of great toil</span>_
 
-> mīles **maximī adnimī**
+> mīles <span style="color: cyan">maximī adnimī</span>
 
-_a soldier **of greatest courage**_
+_a soldier <span style="color: cyan">of greatest courage</span>_
 
-> tempestas **eius modī**
+> tempestas <span style="color: cyan">eius modī</span>
 
-_a storm **of this kind**_
-
-or
-
-_**such** a storm_
+_a storm <span style="color: cyan">of this kind</span>_ or _<span style="color: cyan">such</span> a storm_
 
 The genitive of quality is often seen with nouns modified by
 
@@ -33,19 +29,23 @@ The genitive of quality is often seen with nouns modified by
 - tantus, -a, -um
 
 
+> vir <span style="color: cyan">summae prūdentia</span>
+
+_a man <span style="color: cyan">of the highest good sense</span>_
+
 ## Genitive of Measurement
 
-> fossa **quindecim pedum**
+> fossa <span style="color: cyan">quindecim pedum</span>
 
-_a ditch **of fifteen feet**_
+_a ditch <span style="color: cyan">of fifteen feet</span>_
 
-> vallum **novem pedum**
+> vallum <span style="color: cyan">novem pedum</span>
 
-_a wall **of nine feet**_
+_a wall <span style="color: cyan">of nine feet</span>_
 
-> rēx **trīgintā annōrum**
+> rēx <span style="color: cyan">trīgintā annōrum</span>
 
-_a king **of thirty years**_
+_a king <span style="color: cyan">of thirty years</span>_
 
 The adjective in these uses is the number.
 
@@ -53,7 +53,7 @@ There is also an ablative of description that is very similar and often intercha
 
 | genitive | ablative |
 | --- | --- |
-| vir **summī ingeniī** | vir **summō ingeniō** |
-| _a man **of highest genius**_ | _a man **of highest genius**_ |
+| vir <span style="color: cyan">summī ingeniī</span> | vir <span style="color: cyan">summō ingeniō</span> |
+| _a man <span style="color: cyan">of highest genius</span>_ | _a man <span style="color: cyan">of (with) highest genius</span>_ |
 
 The ablative is more common than the genitive, and that physical characteristics are better relayed with the ablative.
